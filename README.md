@@ -102,3 +102,17 @@ Test 3 - Delete Data
 ![image](https://user-images.githubusercontent.com/76039896/176998616-dbe548bf-e243-4c28-b43c-046b439f7c7e.png)
 ![image](https://user-images.githubusercontent.com/76039896/176998644-8a6771a3-2db7-42e6-80a2-37442bd077a4.png)
 
+# Flowchart
+
+Pada mulai akan menampilkan halaman home, pada halaman home terdapat tombol tambah data akan menampilkan tabel yang berisi data komik yang tersimpan,
+
+Ketika pengguna menekan tombol tambah, maka akan menampilkan halaman tambah dan pengguna harus menginput data. Setelah dimasukan, data akan di proses untuk di input ke dalam tabel komik pada database buku dan akan menampilkan kembali menu utama
+
+Ketika pengguna menekan tombol edit, maka akan menampilkan halaman edit yang formnya sudah teriss dengan data data yang ingin di edit, dan pengguna harus menginput data. Setelah dimasukan, data akan di proses untuk di update ke dalam tabel komik pada database buku dan akan menampilkan kembali menu utama
+
+Ketika pengguna menekan tombol hapus maka data akan di proses untuk di hapus
+
+![komik](https://user-images.githubusercontent.com/76039896/176999273-1e2c5320-a963-4491-974d-4f6f30c15c5d.png)
+
+
+
