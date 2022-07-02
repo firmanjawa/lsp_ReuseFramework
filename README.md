@@ -114,5 +114,29 @@ Ketika pengguna menekan tombol hapus maka data akan di proses untuk di hapus
 
 ![komik](https://user-images.githubusercontent.com/76039896/176999273-1e2c5320-a963-4491-974d-4f6f30c15c5d.png)
 
+# Dokumentasi Kodingan Dengan Komentar
 
+MODEL
 
+![image](https://user-images.githubusercontent.com/76039896/176999755-5652012b-bbc1-47a0-b646-6e874ac577a6.png)
+
+CONTROLLER
+
+![image](https://user-images.githubusercontent.com/76039896/176999760-159cc9f4-5574-4ae5-a391-e1d7b3636880.png)
+![image](https://user-images.githubusercontent.com/76039896/176999769-35c2964e-39c3-429b-a739-cdbac6132d5a.png)
+![image](https://user-images.githubusercontent.com/76039896/176999774-d4e132b9-820e-40bd-9328-17e5d2015c3e.png)
+
+VIEW HOME
+
+![image](https://user-images.githubusercontent.com/76039896/176999780-a59ca495-f716-4586-bf7e-9358ffaf7952.png)
+
+VIEW TAMBAH
+
+![image](https://user-images.githubusercontent.com/76039896/176999784-630e5ae1-84af-43bd-9362-ef7287532f7f.png)
+![image](https://user-images.githubusercontent.com/76039896/176999798-41b9c273-7fdf-4ce1-ab49-11d6bba1dea6.png)
+
+VIEW EDIT
+
+![image](https://user-images.githubusercontent.com/76039896/176999806-24775ca8-81e0-4ee3-8f98-808009040a8b.png)
+![image](https://user-images.githubusercontent.com/76039896/176999808-17fb2b9b-e9ff-4aef-b9be-90d2c36e7b66.png)
+![image](https://user-images.githubusercontent.com/76039896/176999812-d8489349-d17f-4034-8ca0-8d993ac5d16e.png)
