@@ -98,3 +98,7 @@ Test 2 - Mengedit Data
 ![image](https://user-images.githubusercontent.com/76039896/176998532-a38b5e91-c5fd-4207-b96b-e58706ca8a49.png)
 
 Test 3 - Delete Data
+
+![image](https://user-images.githubusercontent.com/76039896/176998616-dbe548bf-e243-4c28-b43c-046b439f7c7e.png)
+![image](https://user-images.githubusercontent.com/76039896/176998644-8a6771a3-2db7-42e6-80a2-37442bd077a4.png)
+
